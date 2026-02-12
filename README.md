@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ricardo Silva
+Tenho 23 anos, sou estudante de Informática e Multimédia e estou a construir o meu caminho para entrar na área que realmente me apaixona: Cibersegurança.
 
-<!--
-**Tsuji-i/Tsuji-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas e desenvolver soluções que misturam criatividade com tecnologia.
 
-Here are some ideas to get you started:
+# 🧑‍💻 Sobre mim
+ 🎓 Estudante de Informática e Multimédia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛡️ Focado em Cibersegurança (ofensiva e defensiva)
+
+🧠 Apaixonado por tecnologia, automação e dispositivos portáteis
+
+🛠️ Criador do MoonPhase, um toolkit portátil de cibersegurança
+
+🌙 Também conhecido como Tsuki
+
+## 🔧 Tecnologias e Ferramentas
+Linguagens: Python, Bash, PHP, DTD, XML, HTML/CSS
+
+Cibersegurança: Aircrack‑ng, Nmap, Hostapd, Wi‑Fi auditing
+
+Hardware: Raspberry Pi, ESP32, NRF24L01, módulos 433 MHz
+
+Outros: Git, Linux, Shell scripting
+
+## 🚀 Projetos em Destaque
+🌒 MoonPhase — dispositivo portátil de cibersegurança
+
+🧩 Scripts e ferramentas de auditoria
+
+## 📫 Onde me encontrar
+GitHub: Tsuji-i
