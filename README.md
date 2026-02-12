@@ -8,7 +8,7 @@ Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas
 
  🛡️ Focado em Cibersegurança (ofensiva e defensiva)
 
-🧠 Apaixonado por tecnologia, automação e dispositivos portáteis
+🧠 Apaixonado por tecnologia, IoT e dispositivos portáteis
 
 🛠️ Criador do MoonPhase, um toolkit portátil de cibersegurança
 
