@@ -12,8 +12,6 @@ Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas
 
 🛠️ Criador do MoonPhase, um toolkit portátil de cibersegurança
 
-🌙 Também conhecido como Tsuki
-
 ## 🔧 Tecnologias e Ferramentas
 Linguagens: Python, Bash, PHP, DTD, XML, HTML/CSS
 
