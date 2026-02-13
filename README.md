@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Ricardo Silva
-Tenho 23 anos, sou estudante de Informática e Multimédia e estou a construir o meu caminho para entrar na área que realmente me apaixona: Cibersegurança.
+Tenho 23 anos, sou estudante da Licenciatura Informática e Multimédia e estou a construir o meu caminho para entrar na área que realmente me apaixona: Cibersegurança.
 
 Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas e desenvolver soluções que misturam criatividade com tecnologia.
 
