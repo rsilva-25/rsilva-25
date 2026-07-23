@@ -4,7 +4,7 @@ Tenho 23 anos, sou lincenciado em Informática e Multimédia e estou a construir
 Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas e desenvolver soluções que misturam criatividade com tecnologia.
 
 # 🧑‍💻 Sobre mim
- 🎓 Estudante de Informática e Multimédia
+ 🎓 Licenciado em Informática e Multimédia
 
  🛡️ Focado em Cibersegurança
 
