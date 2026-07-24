@@ -15,7 +15,7 @@ Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas
 ## 🔧 Tecnologias e Ferramentas
 Linguagens: Python, Bash, PHP, DTD, XML e JAVA
 
-Cibersegurança: Aircrack‑ng, Nmap, Hostapd, Wi‑Fi auditing
+Cibersegurança: Aircrack‑ng, Nmap, Hostapd, Wi‑Fi auditing, Bluetooth Jammer, Replay Attack
 
 Hardware: Raspberry Pi, ESP32, NRF24L01, módulos 433 MHz e NRF24L01 PA + LNA
 
