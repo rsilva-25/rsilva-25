@@ -4,24 +4,26 @@ Tenho 23 anos, sou lincenciado em Informática e Multimédia e estou a construir
 Gosto de criar projetos práticos, explorar hardware, aprender novas ferramentas e desenvolver soluções que misturam criatividade com tecnologia.
 
 # 🧑‍💻 Sobre mim
- 🎓 Licenciado em Informática e Multimédia
+🎓 Licenciado em Informática e Multimédia
 
- 🛡️ Focado em Cibersegurança
+🛡️ Focado em Cibersegurança
 
 🧠 Apaixonado por tecnologia, IoT e dispositivos portáteis
 
 🛠️ Criador do MoonPhase, um toolkit portátil de cibersegurança
 
 ## 🔧 Tecnologias e Ferramentas
-Linguagens: Python, Bash, PHP, DTD, XML, HTML/CSS
+Linguagens: Python, Bash, PHP, DTD, XML e JAVA
 
 Cibersegurança: Aircrack‑ng, Nmap, Hostapd, Wi‑Fi auditing
 
-Hardware: Raspberry Pi, ESP32, NRF24L01, módulos 433 MHz
+Hardware: Raspberry Pi, ESP32, NRF24L01, módulos 433 MHz e NRF24L01 PA + LNA
 
-Outros: Git, Linux, Shell scripting
+Outros: Git, Linux e Shell scripting
 
 ## 🚀 Projetos em Destaque
-🌒 MoonPhase — dispositivo portátil de cibersegurança
+🌒 [MoonPhase](https://github.com/rsilva-25/moonphase) — Dispositivo portátil de cibersegurança
+
+🧌 [GoblinScan](https://github.com/rsilva-25/GoblinScan) — Toolkit para Varrimento de Rede e Sites
 
 🧩 Scripts e ferramentas de auditoria
