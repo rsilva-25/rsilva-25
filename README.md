@@ -36,10 +36,10 @@ I'm a 23-year-old **Computer Science & Multimedia graduate**, currently pursuing
 ![Wi-Fi Auditing](https://img.shields.io/badge/WiFi-Auditing-grey)
 
 #### 🔌 Hardware & IoT
-![Raspberry Pi](https://shields.io)
-![ESP32](https://shields.io)
-![Bluetooth & RF](https://shields.io)
-![Git](https://shields.io)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red)
+![ESP32](https://img.shields.io/badge/Esp23-black)
+![Bluetooth & RF](https://img.shields.io/badge/Bluetooth%20&%20RF-blue)
+![Git](https://img.shields.io/badge/Git-orange)
 
 ---
 
