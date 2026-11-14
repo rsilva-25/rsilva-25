@@ -2,9 +2,10 @@
 <h3 align="center">BSc in Computer Science & Multimedia | MSc Student in Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://github.com/rsilva-25"><img src="https://shields.io" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/rsilva25/"><img src="https://shields.io" alt="LinkedIn"/></a>
-  
+  <a href="https://skillicons.dev">
+   <a href="https://github.com/rsilva-25"> <img src="https://skillicons.dev/icons?i=github" />
+   <a href="https://www.linkedin.com/in/rsilva25/"> <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
@@ -23,20 +24,16 @@ I'm a 23-year-old **Computer Science & Multimedia graduate**, currently pursuing
 ### 🔧 Tech Stack & Tools
 
 #### 💻 Languages & Scripting
-![Python](https://shields.io)
-![Bash](https://shields.io)
-![Java](https://shields.io)
-![PHP](https://shields.io)
-![XML](https://shields.io)
+![My Skills](https://skillicons.dev/icons?i=python,bash,java,php)
 
 #### 🛡️ Cybersecurity & Pentesting
-![Kali Linux](https://shields.io)
-![Linux](https://shields.io)
-![Nmap](https://shields.io)
-![Aircrack-ng](https://shields.io)
-![Metasploit](https://shields.io)
-![Gobuster](https://shields.io)
-![Wi-Fi Auditing](https://shields.io)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue)
+![Linux](https://img.shields.io/badge/Linux-yellow)
+![Nmap](https://img.shields.io/badge/Nmap-lightblue)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack-ng-grey)
+![Metasploit](https://img.shields.io/badge/Metasploit-blue)
+![Gobuster](https://img.shields.io/badge/Gobuster-blue)
+![Wi-Fi Auditing](https://img.shields.io/badge/WiFi-Auditing-grey)
 
 #### 🔌 Hardware & IoT
 ![Raspberry Pi](https://shields.io)
