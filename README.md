@@ -47,8 +47,8 @@ I'm a 23-year-old **Computer Science & Multimedia graduate**, currently pursuing
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| 🌒 **[MoonPhase](https://github.com/moonphase)** | Portable cybersecurity auditing device (Offensive, Defensive & Educational) featuring an OLED screen, Fake AP, Wi-Fi handshake capture, IR replay, and 2.4 GHz interference. | `Raspberry Pi` `Python` `Bash` `NRF24L01` `Aircrack-ng` |
-| 🧌 **[GoblinScan](https://github.com/GoblinScan)** | Lightweight Python toolkit with an interactive menu for fast network and web directory reconnaissance. | `Python` `Nmap` `Gobuster` |
+| 🌒 **[MoonPhase](https://github.com/rsilva-25/moonphase)** | Portable cybersecurity auditing device (Offensive, Defensive & Educational) featuring an OLED screen, Fake AP, Wi-Fi handshake capture, IR replay, and 2.4 GHz interference. | `Raspberry Pi` `Python` `Bash` `NRF24L01` `Aircrack-ng` |
+| 🧌 **[GoblinScan](https://github.com/rsilva-25/GoblinScan)** | Lightweight Python toolkit with an interactive menu for fast network and web directory reconnaissance. | `Python` `Nmap` `Gobuster` |
 | 🏛️ **ProjectArthemis** | *(Add a brief description and link once the repository is public)* | `In Development` |
 | 🧩 **Audit Scripts** | Collection of custom scripts for automating security testing and network auditing. | `Python` `Shell Script` |
 
