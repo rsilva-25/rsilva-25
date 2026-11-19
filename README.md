@@ -24,7 +24,7 @@ I'm a 23-year-old **Computer Science & Multimedia graduate**, currently pursuing
 ### 🔧 Tech Stack & Tools
 
 #### 💻 Languages & Scripting
-![My Skills](https://skillicons.dev/icons?i=python,bash,java,php)
+![My Skills](https://skillicons.dev/icons?i=python,bash,java,php,mysql)
 
 #### 🛡️ Cybersecurity & Pentesting
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue)
