@@ -5,6 +5,7 @@
   <a href="https://skillicons.dev">
    <a href="https://github.com/rsilva-25"> <img src="https://skillicons.dev/icons?i=github" />
    <a href="https://www.linkedin.com/in/rsilva25/"> <img src="https://skillicons.dev/icons?i=linkedin" />
+   <a href="https://rsilva-25.github.io/"> <img src="https://skillicons.dev/icons?i=htmx" />
   </a>
 </p>
 
@@ -53,13 +54,6 @@ I'm a 23-year-old **Computer Science & Multimedia graduate**, currently pursuing
 | 🧩 **Audit Scripts** | Collection of custom scripts for automating security testing and network auditing. | `Python` `Shell Script` |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="Ricardo Silva's GitHub Stats" height="165" />
-  <img src="https://vercel.app" alt="Top Languages" height="165" />
-</p>
 
 <p align="center">
   <i>⚠️ Disclaimer: All offensive security tools and projects on this profile are strictly intended for educational purposes and authorized testing environments only.</i>
